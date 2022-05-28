@@ -1,3842 +1,2242 @@
 [
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "26701,30795"
+    "CONSUMPTION": 26701.30795
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "26759,40784"
+    "CONSUMPTION": 26759.40784
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "27471,4332"
+    "CONSUMPTION": 27471.4332
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "29346,56305"
+    "CONSUMPTION": 29346.56305
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "28370,45647"
+    "CONSUMPTION": 28370.45647
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "28797,4216"
+    "CONSUMPTION": 28797.4216
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "28153,42267"
+    "CONSUMPTION": 28153.42267
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "29523,22449"
+    "CONSUMPTION": 29523.22449
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "31967,46603"
+    "CONSUMPTION": 31967.46603
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "31280,77273"
+    "CONSUMPTION": 31280.77273
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "32161,54047"
+    "CONSUMPTION": 32161.54047
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "32385,17684"
+    "CONSUMPTION": 32385.17684
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "32409,39688"
+    "CONSUMPTION": 32409.39688
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "34310,7796"
+    "CONSUMPTION": 34310.7796
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "34417,20882"
+    "CONSUMPTION": 34417.20882
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "36078,49664"
+    "CONSUMPTION": 36078.49664
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "36372,71408"
+    "CONSUMPTION": 36372.71408
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "37202,3764"
+    "CONSUMPTION": 37202.3764
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "37193,69622"
+    "CONSUMPTION": 37193.69622
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "36512,84155"
+    "CONSUMPTION": 36512.84155
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "36462,83379"
+    "CONSUMPTION": 36462.83379
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35273,83777"
+    "CONSUMPTION": 35273.83777
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "37018,94473"
+    "CONSUMPTION": 37018.94473
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35719,54771"
+    "CONSUMPTION": 35719.54771
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35654,4175"
+    "CONSUMPTION": 35654.4175
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "36199,00247"
+    "CONSUMPTION": 36199.00247
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "34468,14475"
+    "CONSUMPTION": 34468.14475
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35022,99617"
+    "CONSUMPTION": 35022.99617
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35653,60215"
+    "CONSUMPTION": 35653.60215
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35951,69176"
+    "CONSUMPTION": 35951.69176
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35289,21244"
+    "CONSUMPTION": 35289.21244
   },
   {
-    "NUTS1": "",
-    "NUTS2": "",
-    "NUTS3": "",
-    "DISTRICT_CODE": "0001",
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": "35531,37468"
+    "CONSUMPTION": 35531.37468
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "21950,94254"
+    "CONSUMPTION": 21950.94254
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "21735,87939"
+    "CONSUMPTION": 21735.87939
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "22788,21772"
+    "CONSUMPTION": 22788.21772
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "25441,73667"
+    "CONSUMPTION": 25441.73667
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "24311,32137"
+    "CONSUMPTION": 24311.32137
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "25127,58476"
+    "CONSUMPTION": 25127.58476
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "23785,06275"
+    "CONSUMPTION": 23785.06275
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "25497,89511"
+    "CONSUMPTION": 25497.89511
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "28750,41853"
+    "CONSUMPTION": 28750.41853
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "27817,28374"
+    "CONSUMPTION": 27817.28374
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "28496,33144"
+    "CONSUMPTION": 28496.33144
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "28480,35163"
+    "CONSUMPTION": 28480.35163
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "28204,20526"
+    "CONSUMPTION": 28204.20526
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "30419,71733"
+    "CONSUMPTION": 30419.71733
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "30879,65375"
+    "CONSUMPTION": 30879.65375
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32005,6278"
+    "CONSUMPTION": 32005.6278
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32562,17791"
+    "CONSUMPTION": 32562.17791
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32856,90183"
+    "CONSUMPTION": 32856.90183
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "33685,07168"
+    "CONSUMPTION": 33685.07168
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "33083,60021"
+    "CONSUMPTION": 33083.60021
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32835,25798"
+    "CONSUMPTION": 32835.25798
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32422,99387"
+    "CONSUMPTION": 32422.99387
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "33395,74235"
+    "CONSUMPTION": 33395.74235
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "33575,74315"
+    "CONSUMPTION": 33575.74315
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32564,52107"
+    "CONSUMPTION": 32564.52107
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32501,63719"
+    "CONSUMPTION": 32501.63719
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "31615,14661"
+    "CONSUMPTION": 31615.14661
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32860,601"
+    "CONSUMPTION": 32860.601
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "33683,77915"
+    "CONSUMPTION": 33683.77915
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "34186,24112"
+    "CONSUMPTION": 34186.24112
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32852,76322"
+    "CONSUMPTION": 32852.76322
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT11",
-    "NUTS3": "AT110",
-    "DISTRICT_CODE": 10001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": "32779,53022"
+    "CONSUMPTION": 32779.53022
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "28535,15107"
+    "CONSUMPTION": 28535.15107
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "28700,27963"
+    "CONSUMPTION": 28700.27963
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "29817,82129"
+    "CONSUMPTION": 29817.82129
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "32181,55202"
+    "CONSUMPTION": 32181.55202
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "30950,7514"
+    "CONSUMPTION": 30950.7514
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "31661,79646"
+    "CONSUMPTION": 31661.79646
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "30616,67299"
+    "CONSUMPTION": 30616.67299
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "32524,88636"
+    "CONSUMPTION": 32524.88636
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "36161,28603"
+    "CONSUMPTION": 36161.28603
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "34690,84644"
+    "CONSUMPTION": 34690.84644
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "35749,81472"
+    "CONSUMPTION": 35749.81472
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "36979,18704"
+    "CONSUMPTION": 36979.18704
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "36642,47138"
+    "CONSUMPTION": 36642.47138
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "39624,59797"
+    "CONSUMPTION": 39624.59797
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "39178,65313"
+    "CONSUMPTION": 39178.65313
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "40093,26592"
+    "CONSUMPTION": 40093.26592
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41041,22858"
+    "CONSUMPTION": 41041.22858
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41960,36538"
+    "CONSUMPTION": 41960.36538
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41808,09389"
+    "CONSUMPTION": 41808.09389
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41038,50251"
+    "CONSUMPTION": 41038.50251
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "40975,85726"
+    "CONSUMPTION": 40975.85726
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "40581,06272"
+    "CONSUMPTION": 40581.06272
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "42653,10871"
+    "CONSUMPTION": 42653.10871
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41439,7294"
+    "CONSUMPTION": 41439.7294
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41243,831"
+    "CONSUMPTION": 41243.831
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41983,2557"
+    "CONSUMPTION": 41983.2557
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "40363,03421"
+    "CONSUMPTION": 40363.03421
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41536,42586"
+    "CONSUMPTION": 41536.42586
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "42320,10989"
+    "CONSUMPTION": 42320.10989
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "42499,39893"
+    "CONSUMPTION": 42499.39893
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "41892,10803"
+    "CONSUMPTION": 41892.10803
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT12",
-    "NUTS3": "AT120",
-    "DISTRICT_CODE": 30001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": "42852,11916"
+    "CONSUMPTION": 42852.11916
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "18565,20177"
+    "CONSUMPTION": 18565.20177
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "18629,73442"
+    "CONSUMPTION": 18629.73442
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "18598,86532"
+    "CONSUMPTION": 18598.86532
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "20442,03791"
+    "CONSUMPTION": 20442.03791
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "19798,21385"
+    "CONSUMPTION": 19798.21385
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "20435,18048"
+    "CONSUMPTION": 20435.18048
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "20754,73151"
+    "CONSUMPTION": 20754.73151
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "20958,96596"
+    "CONSUMPTION": 20958.96596
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22130,32152"
+    "CONSUMPTION": 22130.32152
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22147,71208"
+    "CONSUMPTION": 22147.71208
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22332,16694"
+    "CONSUMPTION": 22332.16694
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22227,49437"
+    "CONSUMPTION": 22227.49437
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "21546,19146"
+    "CONSUMPTION": 21546.19146
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22760,41021"
+    "CONSUMPTION": 22760.41021
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "23093,83248"
+    "CONSUMPTION": 23093.83248
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "24196,20115"
+    "CONSUMPTION": 24196.20115
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "24018,10886"
+    "CONSUMPTION": 24018.10886
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "23855,18567"
+    "CONSUMPTION": 23855.18567
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "23348,72639"
+    "CONSUMPTION": 23348.72639
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22421,26966"
+    "CONSUMPTION": 22421.26966
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22243,16876"
+    "CONSUMPTION": 22243.16876
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22230,72548"
+    "CONSUMPTION": 22230.72548
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "22906,24577"
+    "CONSUMPTION": 22906.24577
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "21553,03206"
+    "CONSUMPTION": 21553.03206
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "21181,50543"
+    "CONSUMPTION": 21181.50543
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "21298,60975"
+    "CONSUMPTION": 21298.60975
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "19719,88812"
+    "CONSUMPTION": 19719.88812
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "19883,77895"
+    "CONSUMPTION": 19883.77895
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "20103,14909"
+    "CONSUMPTION": 20103.14909
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "20087,61553"
+    "CONSUMPTION": 20087.61553
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "19633,1766"
+    "CONSUMPTION": 19633.1766
   },
   {
-    "NUTS1": "AT1",
-    "NUTS2": "AT13",
-    "NUTS3": "AT130",
-    "DISTRICT_CODE": 90001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": "19356,99115"
+    "CONSUMPTION": 19356.99115
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "28040,97361"
+    "CONSUMPTION": 28040.97361
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "28175,26683"
+    "CONSUMPTION": 28175.26683
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "29268,20571"
+    "CONSUMPTION": 29268.20571
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "31555,17488"
+    "CONSUMPTION": 31555.17488
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "30877,47064"
+    "CONSUMPTION": 30877.47064
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "30887,77221"
+    "CONSUMPTION": 30887.77221
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "29746,87729"
+    "CONSUMPTION": 29746.87729
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "31152,84491"
+    "CONSUMPTION": 31152.84491
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "32241,63388"
+    "CONSUMPTION": 32241.63388
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "31901,35835"
+    "CONSUMPTION": 31901.35835
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "34319,62579"
+    "CONSUMPTION": 34319.62579
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "34982,3767"
+    "CONSUMPTION": 34982.3767
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "34137,60573"
+    "CONSUMPTION": 34137.60573
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "37032,84626"
+    "CONSUMPTION": 37032.84626
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "37171,72763"
+    "CONSUMPTION": 37171.72763
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "40004,47839"
+    "CONSUMPTION": 40004.47839
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "39844,9733"
+    "CONSUMPTION": 39844.9733
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "41291,20926"
+    "CONSUMPTION": 41291.20926
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "42740,71041"
+    "CONSUMPTION": 42740.71041
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "42065,56041"
+    "CONSUMPTION": 42065.56041
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "42936,9671"
+    "CONSUMPTION": 42936.9671
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "40079,029"
+    "CONSUMPTION": 40079.029
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "41833,85611"
+    "CONSUMPTION": 41833.85611
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "40834,55705"
+    "CONSUMPTION": 40834.55705
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "40276,88106"
+    "CONSUMPTION": 40276.88106
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "42681,24846"
+    "CONSUMPTION": 42681.24846
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "40322,57956"
+    "CONSUMPTION": 40322.57956
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "41317,87524"
+    "CONSUMPTION": 41317.87524
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "41977,22981"
+    "CONSUMPTION": 41977.22981
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "43252,49361"
+    "CONSUMPTION": 43252.49361
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "42955,15595"
+    "CONSUMPTION": 42955.15595
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT21",
-    "NUTS3": "AT210",
-    "DISTRICT_CODE": 20001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": "42432,37855"
+    "CONSUMPTION": 42432.37855
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "30276,02054"
+    "CONSUMPTION": 30276.02054
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "30518,72671"
+    "CONSUMPTION": 30518.72671
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "31774,32887"
+    "CONSUMPTION": 31774.32887
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "33701,91992"
+    "CONSUMPTION": 33701.91992
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "32378,17319"
+    "CONSUMPTION": 32378.17319
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "32719,11856"
+    "CONSUMPTION": 32719.11856
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "32064,90346"
+    "CONSUMPTION": 32064.90346
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "33490,42813"
+    "CONSUMPTION": 33490.42813
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "36119,7546"
+    "CONSUMPTION": 36119.7546
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "36240,2365"
+    "CONSUMPTION": 36240.2365
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "36772,30236"
+    "CONSUMPTION": 36772.30236
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "36903,02663"
+    "CONSUMPTION": 36903.02663
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "37412,96502"
+    "CONSUMPTION": 37412.96502
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "38714,37394"
+    "CONSUMPTION": 38714.37394
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "38719,16037"
+    "CONSUMPTION": 38719.16037
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "39981,89095"
+    "CONSUMPTION": 39981.89095
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41452,79619"
+    "CONSUMPTION": 41452.79619
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "42443,81533"
+    "CONSUMPTION": 42443.81533
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "42930,57916"
+    "CONSUMPTION": 42930.57916
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "42614,95433"
+    "CONSUMPTION": 42614.95433
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41833,68449"
+    "CONSUMPTION": 41833.68449
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "39976,65989"
+    "CONSUMPTION": 39976.65989
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "42491,92555"
+    "CONSUMPTION": 42491.92555
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41889,06894"
+    "CONSUMPTION": 41889.06894
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41191,14005"
+    "CONSUMPTION": 41191.14005
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41972,4243"
+    "CONSUMPTION": 41972.4243
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "40011,85259"
+    "CONSUMPTION": 40011.85259
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "40546,78744"
+    "CONSUMPTION": 40546.78744
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41623,30711"
+    "CONSUMPTION": 41623.30711
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "42183,04592"
+    "CONSUMPTION": 42183.04592
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "41954,93517"
+    "CONSUMPTION": 41954.93517
   },
   {
-    "NUTS1": "AT2",
-    "NUTS2": "AT22",
-    "NUTS3": "AT220",
-    "DISTRICT_CODE": 60001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": "42030,53606"
+    "CONSUMPTION": 42030.53606
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "32143,41716"
+    "CONSUMPTION": 32143.41716
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "32414,74045"
+    "CONSUMPTION": 32414.74045
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "33076,22434"
+    "CONSUMPTION": 33076.22434
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "34726,89497"
+    "CONSUMPTION": 34726.89497
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "33654,95477"
+    "CONSUMPTION": 33654.95477
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "33765,33075"
+    "CONSUMPTION": 33765.33075
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "33066,61619"
+    "CONSUMPTION": 33066.61619
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "34711,57122"
+    "CONSUMPTION": 34711.57122
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "37953,27968"
+    "CONSUMPTION": 37953.27968
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "36701,19226"
+    "CONSUMPTION": 36701.19226
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "37541,36978"
+    "CONSUMPTION": 37541.36978
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "38413,17967"
+    "CONSUMPTION": 38413.17967
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "39825,28041"
+    "CONSUMPTION": 39825.28041
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "41723,8472"
+    "CONSUMPTION": 41723.8472
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "41565,4302"
+    "CONSUMPTION": 41565.4302
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44974,9308"
+    "CONSUMPTION": 44974.9308
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44168,86919"
+    "CONSUMPTION": 44168.86919
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "45109,33441"
+    "CONSUMPTION": 45109.33441
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "45043,21922"
+    "CONSUMPTION": 45043.21922
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44334,42222"
+    "CONSUMPTION": 44334.42222
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44793,60789"
+    "CONSUMPTION": 44793.60789
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "42864,23554"
+    "CONSUMPTION": 42864.23554
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "45474,07688"
+    "CONSUMPTION": 45474.07688
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "43991,78774"
+    "CONSUMPTION": 43991.78774
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44927,83596"
+    "CONSUMPTION": 44927.83596
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "45008,38605"
+    "CONSUMPTION": 45008.38605
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "43550,16435"
+    "CONSUMPTION": 43550.16435
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "43566,39053"
+    "CONSUMPTION": 43566.39053
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "45119,00115"
+    "CONSUMPTION": 45119.00115
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "45110,46364"
+    "CONSUMPTION": 45110.46364
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44094,969"
+    "CONSUMPTION": 44094.969
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT31",
-    "NUTS3": "AT30",
-    "DISTRICT_CODE": 40001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": "44953,24692"
+    "CONSUMPTION": 44953.24692
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "27713,57369"
+    "CONSUMPTION": 27713.57369
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "27010,01895"
+    "CONSUMPTION": 27010.01895
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "27247,16072"
+    "CONSUMPTION": 27247.16072
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "28623,77406"
+    "CONSUMPTION": 28623.77406
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "28062,65651"
+    "CONSUMPTION": 28062.65651
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "28410,89567"
+    "CONSUMPTION": 28410.89567
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "27426,34466"
+    "CONSUMPTION": 27426.34466
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "28909,14343"
+    "CONSUMPTION": 28909.14343
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "31177,65911"
+    "CONSUMPTION": 31177.65911
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "30299,67811"
+    "CONSUMPTION": 30299.67811
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "31553,9714"
+    "CONSUMPTION": 31553.9714
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "30853,15775"
+    "CONSUMPTION": 30853.15775
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "30116,18222"
+    "CONSUMPTION": 30116.18222
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "32234,03504"
+    "CONSUMPTION": 32234.03504
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "33557,54616"
+    "CONSUMPTION": 33557.54616
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "35092,25396"
+    "CONSUMPTION": 35092.25396
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "35699,05"
+    "CONSUMPTION": 35699.05
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "37930,72072"
+    "CONSUMPTION": 37930.72072
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "37625,70347"
+    "CONSUMPTION": 37625.70347
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "37117,51695"
+    "CONSUMPTION": 37117.51695
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "37371,3774"
+    "CONSUMPTION": 37371.3774
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "35490,23056"
+    "CONSUMPTION": 35490.23056
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "36855,55978"
+    "CONSUMPTION": 36855.55978
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "34795,17161"
+    "CONSUMPTION": 34795.17161
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "34503,39136"
+    "CONSUMPTION": 34503.39136
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "35369,53295"
+    "CONSUMPTION": 35369.53295
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "33073,41903"
+    "CONSUMPTION": 33073.41903
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "33563,1373"
+    "CONSUMPTION": 33563.1373
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "33798,63521"
+    "CONSUMPTION": 33798.63521
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "33882,58373"
+    "CONSUMPTION": 33882.58373
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "32982,15959"
+    "CONSUMPTION": 32982.15959
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT32",
-    "NUTS3": "AT320",
-    "DISTRICT_CODE": 50001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": "32631,12797"
+    "CONSUMPTION": 32631.12797
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "24678,11267"
+    "CONSUMPTION": 24678.11267
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "24524,70377"
+    "CONSUMPTION": 24524.70377
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "25016,18171"
+    "CONSUMPTION": 25016.18171
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "26103,00389"
+    "CONSUMPTION": 26103.00389
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "24975,23016"
+    "CONSUMPTION": 24975.23016
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "26113,17157"
+    "CONSUMPTION": 26113.17157
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "25229,23096"
+    "CONSUMPTION": 25229.23096
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "26874,65532"
+    "CONSUMPTION": 26874.65532
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "28602,03625"
+    "CONSUMPTION": 28602.03625
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "28259,65458"
+    "CONSUMPTION": 28259.65458
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "29458,38219"
+    "CONSUMPTION": 29458.38219
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "27996,42368"
+    "CONSUMPTION": 27996.42368
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "28639,07978"
+    "CONSUMPTION": 28639.07978
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "30158,23884"
+    "CONSUMPTION": 30158.23884
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "30844,5547"
+    "CONSUMPTION": 30844.5547
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32557,52318"
+    "CONSUMPTION": 32557.52318
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32902,98049"
+    "CONSUMPTION": 32902.98049
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "34317,67323"
+    "CONSUMPTION": 34317.67323
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "34017,28108"
+    "CONSUMPTION": 34017.28108
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "33458,84355"
+    "CONSUMPTION": 33458.84355
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "33125,37089"
+    "CONSUMPTION": 33125.37089
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "31450,93831"
+    "CONSUMPTION": 31450.93831
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32736,001"
+    "CONSUMPTION": 32736.001
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "31037,72511"
+    "CONSUMPTION": 31037.72511
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32067,219"
+    "CONSUMPTION": 32067.219
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32860,27699"
+    "CONSUMPTION": 32860.27699
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "31446,50128"
+    "CONSUMPTION": 31446.50128
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32535,72723"
+    "CONSUMPTION": 32535.72723
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32023,20497"
+    "CONSUMPTION": 32023.20497
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32980,56241"
+    "CONSUMPTION": 32980.56241
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "31821,65576"
+    "CONSUMPTION": 31821.65576
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT33",
-    "NUTS3": "AT330",
-    "DISTRICT_CODE": 70001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": "32024,22409"
+    "CONSUMPTION": 32024.22409
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1988,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "25339,7532"
+    "CONSUMPTION": 25339.7532
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "24999,16398"
+    "CONSUMPTION": 24999.16398
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1990,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "25702,40693"
+    "CONSUMPTION": 25702.40693
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1991,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "27297,61144"
+    "CONSUMPTION": 27297.61144
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1992,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "26840,65896"
+    "CONSUMPTION": 26840.65896
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1993,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "25885,16686"
+    "CONSUMPTION": 25885.16686
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1994,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "25046,16017"
+    "CONSUMPTION": 25046.16017
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1995,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "26853,83543"
+    "CONSUMPTION": 26853.83543
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1996,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29215,41412"
+    "CONSUMPTION": 29215.41412
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1997,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "27537,20932"
+    "CONSUMPTION": 27537.20932
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1998,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "28605,96029"
+    "CONSUMPTION": 28605.96029
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 1999,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "27826,39356"
+    "CONSUMPTION": 27826.39356
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2000,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "27185,17559"
+    "CONSUMPTION": 27185.17559
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2001,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "28426,28466"
+    "CONSUMPTION": 28426.28466
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2002,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "28698,57528"
+    "CONSUMPTION": 28698.57528
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2003,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29755,21872"
+    "CONSUMPTION": 29755.21872
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2004,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "30131,83512"
+    "CONSUMPTION": 30131.83512
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2005,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "30903,59436"
+    "CONSUMPTION": 30903.59436
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2006,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "30660,64402"
+    "CONSUMPTION": 30660.64402
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2007,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "30120,60227"
+    "CONSUMPTION": 30120.60227
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2008,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "30253,74829"
+    "CONSUMPTION": 30253.74829
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2009,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29473,61444"
+    "CONSUMPTION": 29473.61444
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2010,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "31342,0374"
+    "CONSUMPTION": 31342.0374
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2011,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29052,2504"
+    "CONSUMPTION": 29052.2504
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2012,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29731,85911"
+    "CONSUMPTION": 29731.85911
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2013,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29971,54511"
+    "CONSUMPTION": 29971.54511
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2014,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "27984,16206"
+    "CONSUMPTION": 27984.16206
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2015,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "28769,44607"
+    "CONSUMPTION": 28769.44607
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2016,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29063,74517"
+    "CONSUMPTION": 29063.74517
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2017,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29817,6909"
+    "CONSUMPTION": 29817.6909
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2018,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29218,81166"
+    "CONSUMPTION": 29218.81166
   },
   {
-    "NUTS1": "AT3",
-    "NUTS2": "AT34",
-    "NUTS3": "AT340",
-    "DISTRICT_CODE": 80001,
-    "SUB_DISTRICT_CODE": 0,
     "YEAR": 2019,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": "29633,889"
+    "CONSUMPTION": 29633.889
   }
 ]
