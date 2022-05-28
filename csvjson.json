@@ -1,12 +1,5 @@
 [
   {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
-    "CONSUMPTION": 26701.30795
-  },
-  {
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
@@ -222,13 +215,6 @@
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "(Durchschnitt)",
     "CONSUMPTION": 35531.37468
-  },
-  {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Burgenland",
-    "CONSUMPTION": 21950.94254
   },
   {
     "YEAR": 1989,
@@ -448,13 +434,6 @@
     "CONSUMPTION": 32779.53022
   },
   {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
-    "CONSUMPTION": 28535.15107
-  },
-  {
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
@@ -670,13 +649,6 @@
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Niederösterreich",
     "CONSUMPTION": 42852.11916
-  },
-  {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
-    "CONSUMPTION": 18565.20177
   },
   {
     "YEAR": 1989,
@@ -896,13 +868,6 @@
     "CONSUMPTION": 19356.99115
   },
   {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
-    "CONSUMPTION": 28040.97361
-  },
-  {
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
@@ -1118,13 +1083,6 @@
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Kärnten",
     "CONSUMPTION": 42432.37855
-  },
-  {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
-    "CONSUMPTION": 30276.02054
   },
   {
     "YEAR": 1989,
@@ -1344,13 +1302,6 @@
     "CONSUMPTION": 42030.53606
   },
   {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
-    "CONSUMPTION": 32143.41716
-  },
-  {
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
@@ -1566,13 +1517,6 @@
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Oberösterreich",
     "CONSUMPTION": 44953.24692
-  },
-  {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Salzburg",
-    "CONSUMPTION": 27713.57369
   },
   {
     "YEAR": 1989,
@@ -1792,13 +1736,6 @@
     "CONSUMPTION": 32631.12797
   },
   {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
-    "CONSUMPTION": 24678.11267
-  },
-  {
     "YEAR": 1989,
     "UNIT": "kWh/Kopf",
     "REF_YEAR": 2019,
@@ -2014,13 +1951,6 @@
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Tirol",
     "CONSUMPTION": 32024.22409
-  },
-  {
-    "YEAR": 1988,
-    "UNIT": "kWh/Kopf",
-    "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Vorarlberg",
-    "CONSUMPTION": 25339.7532
   },
   {
     "YEAR": 1989,
