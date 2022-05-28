@@ -1,0 +1,98 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "A basic line chart example.",
+  "width": 500,
+  "height": 200,
+  "padding": 5,
+
+  "signals": [
+    {
+      "name": "interpolate",
+      "value": "linear",
+      "bind": {
+        "input": "select",
+        "options": [
+          "basis",
+          "cardinal",
+          "catmull-rom",
+          "linear",
+          "monotone",
+          "natural",
+          "step",
+          "step-after",
+          "step-before"
+        ]
+      }
+    }
+  ],
+
+  "data": [
+    {"name": "mytable", "url": "https://raw.githubusercontent.com/StefanNeubauer/idv/main/csvjson.json"}
+    ],
+
+  "scales": [
+    {
+      "name": "x",
+      "type": "point",
+      "range": "width",
+      "domain": {"data": "mytable", "field": "YEAR"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "zero": false,
+      "domain": {"data": "mytable", "field": "CONSUMPTION"},
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "range": "category",
+      "domain": {"data": "mytable", "field": "FEDERAL_STATE"}
+    }
+  ],
+
+  "axes": [
+    {"orient": "bottom", "scale": "x", "labelOverlap": true},
+    {"orient": "left", "scale": "y", "tickCount": 5}
+  ],
+
+  "legends": [
+    {"fill": "color"}
+  ],
+
+  "marks": [
+    {
+      "type": "group",
+      "from": {
+        "facet": {
+          "name": "series",
+          "data": "mytable",
+          "groupby": "FEDERAL_STATE"
+        }
+      },
+      "marks": [
+        {
+          "type": "line",
+          "from": {"data": "series"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "YEAR"},
+              "y": {"scale": "y", "field": "CONSUMPTION"},
+              "stroke": {"scale": "color", "field": "FEDERAL_STATE"},
+              "strokeWidth": {"value": 2}
+            },
+            "update": {
+              "interpolate": {"signal": "interpolate"},
+              "strokeOpacity": {"value": 1}
+            },
+            "hover": {
+              "strokeOpacity": {"value": 0.5}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
