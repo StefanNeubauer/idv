@@ -5,29 +5,16 @@
   "height": 200,
   "padding": 5,
 
-  "signals": [
-    {
-      "name": "interpolate",
-      "value": "linear",
-      "bind": {
-        "input": "select",
-        "options": [
-          "basis",
-          "cardinal",
-          "catmull-rom",
-          "linear",
-          "monotone",
-          "natural",
-          "step",
-          "step-after",
-          "step-before"
-        ]
-      }
-    }
-  ],
 
   "data": [
-    {"name": "mytable", "url": "https://raw.githubusercontent.com/StefanNeubauer/idv/main/csvjson.json"}
+    {"name": "mytable", "url": "https://raw.githubusercontent.com/StefanNeubauer/idv/main/csvjson.json"},
+    {
+      "name": "filtered",
+      "url": "https://raw.githubusercontent.com/StefanNeubauer/idv/main/csvjson.json",
+      "transform": [
+        { "type": "filter", "expr": "datum.FEDERAL_STATE == '(Average)'" }
+      ]
+    }
     ],
 
   "scales": [
@@ -43,7 +30,8 @@
       "range": "height",
       "nice": true,
       "zero": false,
-      "domain": {"data": "mytable", "field": "CONSUMPTION"},
+      "domain": {"data": "mytable", "field": "CONSUMPTION"}
+
     },
     {
       "name": "color",
@@ -82,13 +70,18 @@
               "y": {"scale": "y", "field": "CONSUMPTION"},
               "stroke": {"scale": "color", "field": "FEDERAL_STATE"},
               "strokeWidth": {"value": 2}
-            },
-            "update": {
-              "interpolate": {"signal": "interpolate"},
-              "strokeOpacity": {"value": 1}
-            },
-            "hover": {
-              "strokeOpacity": {"value": 0.5}
+            }
+          }
+        },
+        {
+          "type": "line",
+          "from": {"data": "filtered"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "YEAR"},
+              "y": {"scale": "y", "field": "CONSUMPTION"},
+              "stroke": {"scale": "color", "field": "FEDERAL_STATE"},
+              "strokeWidth": {"value": 3}
             }
           }
         }
