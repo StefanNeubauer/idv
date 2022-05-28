@@ -1,0 +1,62 @@
+[
+  {
+    "Federal States": "Upper Austria",
+    "kWh/head": 44953,
+    "Deviation from Average": 9422,
+    "Deviation from Average in %": "26.52%"
+  },
+  {
+    "Federal States": "Lower Austria",
+    "kWh/head": 42852,
+    "Deviation from Average": 7321,
+    "Deviation from Average in %": "20.6%"
+  },
+  {
+    "Federal States": "Carinthia",
+    "kWh/head": 42432,
+    "Deviation from Average": 6901,
+    "Deviation from Average in %": "19.42%"
+  },
+  {
+    "Federal States": "Styria",
+    "kWh/head": 42030,
+    "Deviation from Average": 6499,
+    "Deviation from Average in %": "18.29%"
+  },
+  {
+    "Federal States": "(Average)",
+    "kWh/head": 35531,
+    "Deviation from Average": 0,
+    "Deviation from Average in %": "0.0%"
+  },
+  {
+    "Federal States": "Burgenland",
+    "kWh/head": 32779,
+    "Deviation from Average": -2752,
+    "Deviation from Average in %": "-7.74%"
+  },
+  {
+    "Federal States": "Salzburg",
+    "kWh/head": 32631,
+    "Deviation from Average": -2900,
+    "Deviation from Average in %": "-8.16%"
+  },
+  {
+    "Federal States": "Tyrol",
+    "kWh/head": 32024,
+    "Deviation from Average": -3507,
+    "Deviation from Average in %": "-9.87%"
+  },
+  {
+    "Federal States": "Vorarlberg",
+    "kWh/head": 29633,
+    "Deviation from Average": -5898,
+    "Deviation from Average in %": "-16.6%"
+  },
+  {
+    "Federal States": "Vienna",
+    "kWh/head": 19356,
+    "Deviation from Average": -16175,
+    "Deviation from Average in %": "-45.52%"
+  }
+]
