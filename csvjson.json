@@ -1,2170 +1,2170 @@
 [
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 26759.40784
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 27471.4332
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 29346.56305
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 28370.45647
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 28797.4216
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 28153.42267
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 29523.22449
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 31967.46603
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 31280.77273
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 32161.54047
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 32385.17684
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 32409.39688
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 34310.7796
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 34417.20882
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 36078.49664
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 36372.71408
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 37202.3764
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 37193.69622
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 36512.84155
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 36462.83379
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35273.83777
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 37018.94473
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35719.54771
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35654.4175
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 36199.00247
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 34468.14475
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35022.99617
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35653.60215
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35951.69176
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35289.21244
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Durchschnitt)",
+    "FEDERAL_STATE": "(Average)",
     "CONSUMPTION": 35531.37468
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 21735.87939
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 22788.21772
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 25441.73667
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 24311.32137
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 25127.58476
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 23785.06275
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 25497.89511
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 28750.41853
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 27817.28374
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 28496.33144
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 28480.35163
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 28204.20526
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 30419.71733
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 30879.65375
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32005.6278
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32562.17791
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32856.90183
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 33685.07168
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 33083.60021
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32835.25798
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32422.99387
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 33395.74235
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 33575.74315
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32564.52107
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32501.63719
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 31615.14661
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32860.601
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 33683.77915
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 34186.24112
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32852.76322
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Burgenland",
     "CONSUMPTION": 32779.53022
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 28700.27963
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 29817.82129
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 32181.55202
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 30950.7514
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 31661.79646
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 30616.67299
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 32524.88636
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 36161.28603
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 34690.84644
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 35749.81472
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 36979.18704
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 36642.47138
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 39624.59797
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 39178.65313
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 40093.26592
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41041.22858
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41960.36538
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41808.09389
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41038.50251
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 40975.85726
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 40581.06272
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 42653.10871
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41439.7294
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41243.831
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41983.2557
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 40363.03421
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41536.42586
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 42320.10989
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 42499.39893
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 41892.10803
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Niederösterreich",
+    "FEDERAL_STATE": "Lower Austria",
     "CONSUMPTION": 42852.11916
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 18629.73442
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 18598.86532
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 20442.03791
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 19798.21385
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 20435.18048
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 20754.73151
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 20958.96596
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22130.32152
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22147.71208
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22332.16694
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22227.49437
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 21546.19146
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22760.41021
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 23093.83248
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 24196.20115
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 24018.10886
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 23855.18567
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 23348.72639
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22421.26966
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22243.16876
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22230.72548
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 22906.24577
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 21553.03206
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 21181.50543
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 21298.60975
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 19719.88812
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 19883.77895
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 20103.14909
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 20087.61553
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 19633.1766
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Wien",
+    "FEDERAL_STATE": "Vienna",
     "CONSUMPTION": 19356.99115
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 28175.26683
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 29268.20571
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 31555.17488
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 30877.47064
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 30887.77221
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 29746.87729
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 31152.84491
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 32241.63388
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 31901.35835
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 34319.62579
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 34982.3767
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 34137.60573
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 37032.84626
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 37171.72763
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 40004.47839
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 39844.9733
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 41291.20926
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 42740.71041
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 42065.56041
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 42936.9671
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 40079.029
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 41833.85611
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 40834.55705
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 40276.88106
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 42681.24846
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 40322.57956
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 41317.87524
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 41977.22981
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 43252.49361
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 42955.15595
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Kärnten",
+    "FEDERAL_STATE": "Carinthia",
     "CONSUMPTION": 42432.37855
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 30518.72671
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 31774.32887
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 33701.91992
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 32378.17319
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 32719.11856
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 32064.90346
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 33490.42813
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 36119.7546
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 36240.2365
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 36772.30236
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 36903.02663
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 37412.96502
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 38714.37394
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 38719.16037
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 39981.89095
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41452.79619
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 42443.81533
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 42930.57916
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 42614.95433
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41833.68449
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 39976.65989
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 42491.92555
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41889.06894
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41191.14005
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41972.4243
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 40011.85259
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 40546.78744
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41623.30711
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 42183.04592
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 41954.93517
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Steiermark",
+    "FEDERAL_STATE": "Styria",
     "CONSUMPTION": 42030.53606
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 32414.74045
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 33076.22434
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 34726.89497
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 33654.95477
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 33765.33075
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 33066.61619
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 34711.57122
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 37953.27968
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 36701.19226
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 37541.36978
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 38413.17967
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 39825.28041
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 41723.8472
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 41565.4302
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44974.9308
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44168.86919
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 45109.33441
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 45043.21922
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44334.42222
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44793.60789
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 42864.23554
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 45474.07688
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 43991.78774
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44927.83596
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 45008.38605
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 43550.16435
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 43566.39053
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 45119.00115
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 45110.46364
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44094.969
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Oberösterreich",
+    "FEDERAL_STATE": "Upper Austria",
     "CONSUMPTION": 44953.24692
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 27010.01895
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 27247.16072
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 28623.77406
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 28062.65651
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 28410.89567
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 27426.34466
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 28909.14343
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 31177.65911
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 30299.67811
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 31553.9714
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 30853.15775
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 30116.18222
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 32234.03504
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 33557.54616
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 35092.25396
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 35699.05
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 37930.72072
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 37625.70347
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 37117.51695
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 37371.3774
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 35490.23056
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 36855.55978
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 34795.17161
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 34503.39136
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 35369.53295
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 33073.41903
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 33563.1373
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 33798.63521
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 33882.58373
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 32982.15959
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Salzburg",
     "CONSUMPTION": 32631.12797
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 24524.70377
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 25016.18171
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 26103.00389
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 24975.23016
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 26113.17157
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 25229.23096
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 26874.65532
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 28602.03625
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 28259.65458
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 29458.38219
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 27996.42368
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 28639.07978
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 30158.23884
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 30844.5547
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32557.52318
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32902.98049
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 34317.67323
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 34017.28108
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 33458.84355
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 33125.37089
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 31450.93831
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32736.001
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 31037.72511
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32067.219
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32860.27699
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 31446.50128
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32535.72723
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32023.20497
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32980.56241
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 31821.65576
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "Tirol",
+    "FEDERAL_STATE": "Tyrol",
     "CONSUMPTION": 32024.22409
   },
   {
     "YEAR": 1989,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 24999.16398
   },
   {
     "YEAR": 1990,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 25702.40693
   },
   {
     "YEAR": 1991,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 27297.61144
   },
   {
     "YEAR": 1992,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 26840.65896
   },
   {
     "YEAR": 1993,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 25885.16686
   },
   {
     "YEAR": 1994,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 25046.16017
   },
   {
     "YEAR": 1995,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 26853.83543
   },
   {
     "YEAR": 1996,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29215.41412
   },
   {
     "YEAR": 1997,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 27537.20932
   },
   {
     "YEAR": 1998,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 28605.96029
   },
   {
     "YEAR": 1999,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 27826.39356
   },
   {
     "YEAR": 2000,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 27185.17559
   },
   {
     "YEAR": 2001,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 28426.28466
   },
   {
     "YEAR": 2002,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 28698.57528
   },
   {
     "YEAR": 2003,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29755.21872
   },
   {
     "YEAR": 2004,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 30131.83512
   },
   {
     "YEAR": 2005,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 30903.59436
   },
   {
     "YEAR": 2006,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 30660.64402
   },
   {
     "YEAR": 2007,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 30120.60227
   },
   {
     "YEAR": 2008,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 30253.74829
   },
   {
     "YEAR": 2009,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29473.61444
   },
   {
     "YEAR": 2010,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 31342.0374
   },
   {
     "YEAR": 2011,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29052.2504
   },
   {
     "YEAR": 2012,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29731.85911
   },
   {
     "YEAR": 2013,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29971.54511
   },
   {
     "YEAR": 2014,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 27984.16206
   },
   {
     "YEAR": 2015,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 28769.44607
   },
   {
     "YEAR": 2016,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29063.74517
   },
   {
     "YEAR": 2017,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29817.6909
   },
   {
     "YEAR": 2018,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29218.81166
   },
   {
     "YEAR": 2019,
-    "UNIT": "kWh/Kopf",
+    "UNIT": "kWh/head",
     "REF_YEAR": 2019,
     "FEDERAL_STATE": "Vorarlberg",
     "CONSUMPTION": 29633.889
