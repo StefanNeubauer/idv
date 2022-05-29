@@ -5,7 +5,6 @@
   "height": 200,
   "padding": 5,
 
-
   "data": [
     {"name": "mytable", "url": "https://raw.githubusercontent.com/StefanNeubauer/idv/main/csvjson.json"},
     {
@@ -34,10 +33,16 @@
 
     },
     {
+      "name": "color2",
+      "type": "ordinal",
+      "range": {"scheme": "tableau20"},
+      "domain": {"data": "mytable", "field": "FEDERAL_STATE"}
+    },
+    {
       "name": "color",
       "type": "ordinal",
-      "range": "category",
-      "domain": {"data": "mytable", "field": "FEDERAL_STATE"}
+      "domain": {"data": "mytable", "field": "FEDERAL_STATE"},
+      "range": ["#e45756", "#9ecae9", "#f58518", "#ffbf79", "#54a24b", "#88d27a", "#b79a20", "#f2cf5b", "#439894", "#83bcb6", "#e45756", "#4c78a8"]
     }
   ],
 
@@ -81,7 +86,7 @@
               "x": {"scale": "x", "field": "YEAR"},
               "y": {"scale": "y", "field": "CONSUMPTION"},
               "stroke": {"scale": "color", "field": "FEDERAL_STATE"},
-              "strokeWidth": {"value": 3}
+              "strokeWidth": {"value": 2.5}
             }
           }
         }
