@@ -35,7 +35,7 @@
     "YEAR": 1993,
     "UNIT": "kWh/head",
     "REF_YEAR": 2019,
-    "FEDERAL_STATE": "(Average)",
+    "FEDERAL_STATE": "Average",
     "CONSUMPTION": 28797.4216,
     "SORTY": 1
   },
